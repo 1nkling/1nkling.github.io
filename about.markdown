@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Dan!  My favorite ice cream flavor is banana.  Though I've recently really enjoyed cookies and cream.  My favorite movie is Trainspotting.  I went to school on the east coast, and worked on the west coast in tech for 6 or so years.  I also hear a picture is worth a thousand words :)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![Image](/assets/79C7C905-C098-4E44-BDA2-3576BECC6882_1_105_c.jpeg)
